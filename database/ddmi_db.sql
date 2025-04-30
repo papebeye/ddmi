@@ -1,0 +1,2 @@
+-- Base de données pour le système DDMI
+-- Généré automatiquement lors de l'installation

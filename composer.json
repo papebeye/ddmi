@@ -1,0 +1,13 @@
+{
+    "name": "creg/ddmi-system",
+    "description": "Système de gestion et de calcul du DDMI",
+    "type": "project",
+    "require": {
+        "php": ">=7.2.29"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    }
+}
